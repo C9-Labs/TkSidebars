@@ -8,5 +8,5 @@ Types Of Sidebars:
   <li> Glass (White) </li>
     <img style="height:240px" src='https://res.cloudinary.com/cloud9-labs/image/upload/v1632769318/glass-sidebar-light_pozxwx.png'>
   <li> Glass (Dark) </li>
-    <img style="height:240px" scr='https://res.cloudinary.com/cloud9-labs/image/upload/v1632769318/glass-sidebar-dark_j3ukp2.png'>
+    <img style="height:240px" src='https://res.cloudinary.com/cloud9-labs/image/upload/v1632769318/glass-sidebar-dark_j3ukp2.png'>
 </ul>
